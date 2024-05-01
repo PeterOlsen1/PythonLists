@@ -1,8 +1,4 @@
-/**
- * Updated by Noah Park and Michael Markiewicz on 03.03.2021.
- *
- * @param <T> Generic type for the list interface.
- */
+
 public interface List<T extends Comparable<T>> {
 
   /**
